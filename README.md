@@ -3,9 +3,9 @@ For Dacon competition, KBO_OPS Forecast model to predict OPS of early season of 
 https://dacon.io/home
 
 
-데이콘 2019년 상반기 타자 OPS모델 측정 대회
-Baseball data challenge
+데이콘 2019년 상반기 타자 OPS모델 측정 대회  
+Baseball data challenge  
 
 
-Python code used
+Python code used  
 LightGBM used
